@@ -1,3 +1,8 @@
 #pattern to git ignore
 #exclude the folder from the given
 bin/
+.classpath
+.project
+.settings/
+.factorypath
+*.class

@@ -1,4 +1,4 @@
-package com.java.arrays.basics;
+package com.arrays.basics;
 
 public class LengthOftheArray {
 
