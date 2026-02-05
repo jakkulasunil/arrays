@@ -4,4 +4,5 @@ Random Access:i-th item can be access in O(1) time as we have the base address a
 Cache Friendliness: Since Items/references are stored at contiguous locations, we get the advantage of locality of reference.
 
 Arrays are mainly used to build other data structures Like stack, queue,HashTable...etc.
+
 Array Basics in Java:
