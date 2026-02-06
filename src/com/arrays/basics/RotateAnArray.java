@@ -1,5 +1,5 @@
 package com.arrays.basics;
-
+//Rotate an array
 public class RotateAnArray {
 
 	static void arrayRotation(int[] arr, int d) {
