@@ -6,7 +6,6 @@ public class CheckIfSorted {
 			return true;
 		return arr[n - 1] >= arr[n - 1] && isSortedHelper(arr, n - 1);
 	}
-
 	public static boolean isSorted(int[] arr) {
 
 		return isSortedHelper(arr, arr.length);
